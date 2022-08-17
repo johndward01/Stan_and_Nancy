@@ -1,47 +1,13 @@
-
-.nav-link {
-    color: orange;
-    text-decoration: none;
-}
-
-nav {
-    margin: 25px;
-}
-
-main {
-    max-width: 1280px;
-    margin: 24px;
-}
-
-section{
-    margin: 24px auto;
-    padding: 16px;
-}
-
-#title{
-    font-size: 40px;
-    font-weight: 800;
-}
-
-.d-inline{display: inline;}
-
-nav ul {
-    list-style: none;
-}
-
-a{
-    font-size: x-large;
-    text-decoration: none;
-    margin: 25px;
-}
-
 body {
     background-color: #222;
     color: #EEE;
 }
 
-#avatar, #id1, #id2 {
-    position: relative;
+.flex-container{
+    display: flex;
+    justify-content: flex-end;
 }
 
-
+button{
+    margin: 10px;
+}
